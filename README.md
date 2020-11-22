@@ -13,8 +13,8 @@
   Employees are facing issues in searching for suitable courses and building individualized learning paths, as well as creating a system where employees can track their skills and career goals.
   
 ## Solution
-- Our solution is an integrated platform, with automatic courses suggestion and learning paths construction from a wide variety of available and trusted sources, as well as a way to track the employees’ career development path and skills needed to achieve career goals.
-- The system automatically suggests learning pathways based on existing skills, specialized skills needed to develop, and personal targets.
+ - Our solution is an integrated platform, with automatic courses suggestion and learning paths construction from a wide variety of available and trusted sources, as well as a way to track the employees’ career development path and skills needed to achieve career goals.
+ -The system automatically suggests learning pathways based on existing skills, specialized skills needed to develop, and personal targets.
   
 ## AI features
 Here is our demo for the AI system that we have built in the last two days
@@ -31,3 +31,10 @@ Here is our demo for the AI system that we have built in the last two days
 #### Inferencing
 - User queries are processed exactly the same as in the case of training document to get their embeddings
 - With a trained model from database, users will get the recommended course base on the context of their queries
+
+### Future direction
+#### Model improvement
+- We plan to use state-of-the-art model in NLP for text encoder (transformer-based model)
+#### Get more user information
+- We are in lack of users' data and will collect more information from users to improve our model
+
