@@ -3,7 +3,7 @@
 ## Our team: TheFutureDev
 | Name |Email | Slack Account |
 | ------ | --------------- | ---------------- |
-| Nguyen Duc Chinh| chinhbka@gmail.com | [Nguyen Duc Chinh - TheFutureDev] |
+| Nguyen Duc Chinh| nguyenducchinhbka@gmail.com | [Nguyen Duc Chinh - TheFutureDev] |
 | Dao Minh Dung | dungdao3112000@gmail.com | [Dao Minh Dung - TheFutureDev] |
 | Nguyen Trong Hai | tronghaixh2000@gmail.com | [Nguyen Trong Hai - TheFutureDev] |
 | Phan Viet Hoang| phanviethoang1512@gmail.com | [Phan Viet Hoang - TheFutureDev] |
