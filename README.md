@@ -10,9 +10,12 @@
 | Nguyen Van Trinh| vantrinh2607@gmail.com | [Nguyen Van Trinh - TheFutureDev] |
 
 ## Problem
-
+  Employees are facing issues in searching for suitable courses and building individualized learning paths, as well as creating a system where employees can track their skills and career goals.
+  
 ## Solution
-
+  Our solution is an integrated platform, with automatic courses suggestion and learning paths construction from a wide variety of available and trusted sources, as well as a way to track the employees’ career development path and skills needed to achieve career goals.
+  The system automatically suggests learning pathways based on existing skills, specialized skills needed to develop, and personal targets. And here is our demo for the AI system that we have built in the last two days
+  
 ## AI features
 
 ### Main structure
