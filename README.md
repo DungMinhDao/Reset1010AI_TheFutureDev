@@ -1,5 +1,16 @@
 # course_recommendation
 
+## Our team: TheFutureDev
+| Name |Email | Slack Account |
+| ------ | --------------- | ---------------- |
+| Nguyen Duc Chinh| chinhbka@gmail.com | [Nguyen Duc Chinh - TheFutureDev] |
+| Dao Minh Dung | dungdao3112000@gmail.com | [Dao Minh Dung - TheFutureDev] |
+| Nguyen Trong Hai | tronghaixh2000@gmail.com | [Nguyen Trong Hai - TheFutureDev] |
+| Phan Viet Hoang|   | phanviethoang1512@gmail.com | [Phan Viet Hoang - TheFutureDev] |
+| Nguyen Van Trinh|  vantrinh2607@gmail.com | [Nguyen Van Trinh - TheFutureDev] |
+
+## AI features
+
 ### Main structure
 ![Untitled Document (4)](https://user-images.githubusercontent.com/52401767/99893169-6a584200-2caf-11eb-90d8-0c6e1d5fb60f.png)
 
