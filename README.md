@@ -1,6 +1,4 @@
-# Integrated Expertise Training Platform
-## With learning path recommendation system and skill tracking feature
-
+# Integrated Expertise Training Platform - AI solution
 
 ## Our team: TheFutureDev
 | Name |Email | Slack Account |
