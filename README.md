@@ -1,4 +1,6 @@
-# course_recommendation
+# Integrated Expertise Training Platform
+## With learning path recommendation system and skill tracking feature
+
 
 ## Our team: TheFutureDev
 | Name |Email | Slack Account |
